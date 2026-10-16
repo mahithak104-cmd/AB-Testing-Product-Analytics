@@ -112,7 +112,9 @@ ab-testing-product-analytics/
 
 MySQL, SQL Analytics, A/B Testing, Product Analytics, Experiment Design, Hypothesis Testing, Statistical Significance, Conversion Rate Optimization, Revenue Analysis, Data Quality Validation, and Business Decision-Making.
 
+---
 ## Author
-Mahitha Kalinathabotla 
+Mahitha Kalinathabotla
+[LinkedIn](https://www.linkedin.com/in/mahitha-kalinathabotla)
 
-Created as a portfolio project to demonstrate SQL-based product experimentation and data-driven decision-making.
+---
