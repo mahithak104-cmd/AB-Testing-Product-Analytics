@@ -119,6 +119,5 @@ MySQL, SQL Analytics, A/B Testing, Product Analytics, Experiment Design, Hypothe
 
 Master of Science in Business Analytics  
 University at Albany, SUNY
-
-Connect with me on [LinkedIn](www.linkedin.com/in/mahitha-kalinathabotla).
+**Connect with me on [LinkedIn](www.linkedin.com/in/mahitha-kalinathabotla).**
 ---
