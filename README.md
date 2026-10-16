@@ -100,18 +100,6 @@ ab-testing-product-analytics/
 └── .gitignore
 ```
 
-## Limitations
-
-- The dataset is synthetic and does not establish real-world causal effects.
-- The observed results depend on the assumptions used to generate the data.
-- Statistical conclusions depend on the correctness of the implemented test and calculations.
-- Refund amounts are not separately stored, so true net revenue after refunds cannot be calculated.
-- Cancellation and refund rates are calculated at the order level, not the unique-user level.
-
-## Skills Demonstrated
-
-MySQL, SQL Analytics, A/B Testing, Product Analytics, Experiment Design, Hypothesis Testing, Statistical Significance, Conversion Rate Optimization, Revenue Analysis, Data Quality Validation, and Business Decision-Making.
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mahitha-kalinathabotla/)
