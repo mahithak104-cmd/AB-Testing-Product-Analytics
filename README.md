@@ -112,13 +112,6 @@ ab-testing-product-analytics/
 
 MySQL, SQL Analytics, A/B Testing, Product Analytics, Experiment Design, Hypothesis Testing, Statistical Significance, Conversion Rate Optimization, Revenue Analysis, Data Quality Validation, and Business Decision-Making.
 
----
-## Author
+## Connect with Me
 
-**Mahitha Kalinathabotla**
-
-Master of Science in Business Analytics  
-University at Albany, SUNY
-
-Connect with me on [LinkedIn](www.linkedin.com/in/mahitha-kalinathabotla) 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mahitha-kalinathabotla/)
