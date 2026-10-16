@@ -100,18 +100,6 @@ ab-testing-product-analytics/
 └── .gitignore
 ```
 
-## How to Run the Project
-
-1. Install MySQL 8.0 or later and open MySQL Workbench.
-2. Create or select the project database by running `01_create_schema.sql`.
-3. Run `02_generate_dataset.sql` to generate the synthetic dataset.
-4. Run `03_data_quality.sql` to validate the data.
-5. Run `04_experiment_metrics.sql` to calculate experiment KPIs.
-6. Run `05_statistical_analysis.sql` to evaluate the conversion difference.
-7. Run `06_revenue_guardrails.sql` to analyze revenue and order-quality metrics.
-
-**Important:** The dataset generation script rebuilds the project tables. Rerunning it will replace the existing synthetic data.
-
 ## Limitations
 
 - The dataset is synthetic and does not establish real-world causal effects.
